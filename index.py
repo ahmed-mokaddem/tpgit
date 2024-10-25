@@ -1,3 +1,5 @@
+<<<<<<< HEAD
 print("tp git")
-def payment():
-    pass
+
+=======
+>>>>>>> parent of e777a59 (debut code)
